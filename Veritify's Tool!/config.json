@@ -1,0 +1,9 @@
+{
+	"Token": "ODQxNDEwNTQ5NDkzNTMwNjM0.YJwnhg.K40tpaEy-pIGvY14leFmteZSh2s",
+	"Bot": false,
+    "guild-id": "841411238361694268",
+	"channelspamid": "PUT CHANNEL ID OF SPAM HERE",
+	"spam_message": "MESSAGE TO SPAM HERE!!",
+	"rolespam": "PUT ROLE SPAM NAME HERE",
+	"channelspam": "PUT NAME OF CHANNEL HERE"
+}
